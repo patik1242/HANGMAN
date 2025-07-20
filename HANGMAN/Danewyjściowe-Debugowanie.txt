@@ -1,0 +1,15 @@
+„HANGMAN.exe” (Win32): załadowano „C:\Users\Patrycja\Desktop\HANGMAN\x64\Debug\HANGMAN.exe”. Symbole zostały załadowane.
+„HANGMAN.exe” (Win32): załadowano „C:\Windows\System32\ntdll.dll”. 
+„HANGMAN.exe” (Win32): załadowano „C:\Windows\System32\kernel32.dll”. 
+„HANGMAN.exe” (Win32): załadowano „C:\Windows\System32\KernelBase.dll”. 
+„HANGMAN.exe” (Win32): załadowano „C:\Windows\System32\msvcp140d.dll”. 
+„HANGMAN.exe” (Win32): załadowano „C:\Windows\System32\vcruntime140d.dll”. 
+„HANGMAN.exe” (Win32): załadowano „C:\Windows\System32\vcruntime140_1d.dll”. 
+„HANGMAN.exe” (Win32): załadowano „C:\Windows\System32\ucrtbased.dll”. 
+Wątek 18328 zakończył działanie z kodem 0 (0x0).
+„HANGMAN.exe” (Win32): załadowano „C:\Windows\System32\sechost.dll”. 
+„HANGMAN.exe” (Win32): załadowano „C:\Windows\System32\bcrypt.dll”. 
+Wątek 4252 zakończył działanie z kodem 3221225547 (0xc000004b).
+Wątek 15252 zakończył działanie z kodem 3221225786 (0xc000013a).
+Wątek 22960 zakończył działanie z kodem 3221225786 (0xc000013a).
+Program „[13720] HANGMAN.exe” zakończył działanie z kodem 3221225786 (0xc000013a).
